@@ -12,10 +12,7 @@
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/NemasisDarkX?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/NemasisDarkX?tab=followers"><img align="right" src="https://img.shields.io/github/followers/NemasisDarkX?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/NeamsisDarkX">  <img align="right" src="https://komarev.com/ghpvc/?username=TheSpeedX"></a>
 
-<p>
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemasisDarkXX&langs_count=8&theme=react" />
-</p>
+
 
 <a href="https://github.com/NemasisDarkX"><img alt="NemasisDarkX's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=NemasisDarkX&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
@@ -23,5 +20,3 @@
 
 <br />
 
-<a href="https://github.com/NemasisDarkX"><img alt="NemasisDarkX's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=NemasisDarkX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
