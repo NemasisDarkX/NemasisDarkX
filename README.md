@@ -20,7 +20,11 @@
 
 <br />
 
-<h2 align="center">Stack Overflow Achievements</h2>
+## 📊 Github Stats <img align="right" ![](https://img.shields.io/stackexchange/stackoverflow/r/19911293?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400)
+
+<!-- hyperlinked with alt text and title: -->
+
+[![GLITCH's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/19911293?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/19911293 "GLITCH's Stack Overflow Reputation")
 <a href="https://stackoverflow.com/users/19911293/abhay"><img src="https://stackoverflow.com/users/flair/19911293.png" width="208" height="58" alt="profile for Abhay at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abhay at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br/>
 
