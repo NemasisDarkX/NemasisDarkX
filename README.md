@@ -7,6 +7,8 @@
 Im very good at:
 
 ![](https://badgen.net/pypi/python/black)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <h2 align="center">🏆 Github Trophies</h2>
 <img align="center"
   src="https://github-profile-trophy.vercel.app/?username=NemasisDarkX&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
