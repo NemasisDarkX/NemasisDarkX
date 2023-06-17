@@ -5,7 +5,8 @@
 </p>
 <br/>
 Im very good at:
-![](https://badgen.net/#pypi/python/black)
+
+![](https://badgen.net/pypi/python/black)
 <h2 align="center">🏆 Github Trophies</h2>
 <img align="center"
   src="https://github-profile-trophy.vercel.app/?username=NemasisDarkX&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
