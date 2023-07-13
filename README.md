@@ -16,7 +16,7 @@
   width="100%" />
 <br />
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/NemasisDarkX?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/NemasisDarkX?tab=followers"><img align="right" src="https://img.shields.io/github/followers/NemasisDarkX?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/NeamsisDarkX">  <img align="right" src="https://komarev.com/ghpvc/?username=nemasisdarkx$color=red&style=plastic)"></a>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/NemasisDarkX?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/NemasisDarkX?tab=followers"><img align="right" src="https://img.shields.io/github/followers/NemasisDarkX?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/NeamsisDarkX">  <img align="right" src="https://komarev.com/ghpvc/?username=NemasisDarkX&color=red&style=plastic)"></a>
 
 
 
