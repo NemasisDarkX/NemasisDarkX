@@ -28,4 +28,13 @@ Hello, I'm Abhay. I'm passionate about programming and open source. Here's a bit
 
 Feel free to explore my repositories, and let's collaborate on exciting projects!
 
+<div id="chat-box">
+  <div id="chat-log">
+    <!-- Chat messages will be displayed here -->
+  </div>
+  <input type="text" id="user-input" placeholder="Type a message...">
+  <button onclick="sendMessage()">Send</button>
+</div>
+
 Have a great day! 🚀
+
