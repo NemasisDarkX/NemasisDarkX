@@ -28,6 +28,7 @@ Hello, I'm Abhay. I'm passionate about programming and open source. Here's a bit
 
 Feel free to explore my repositories, and let's collaborate on exciting projects!
 
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,6 +73,7 @@ Feel free to explore my repositories, and let's collaborate on exciting projects
   </div>
 </body>
 </html>
+```
 
 
 Have a great day! 🚀
