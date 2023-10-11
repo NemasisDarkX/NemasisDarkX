@@ -4,7 +4,7 @@
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nemasisdarkx&label=Profile%20views&color=0e75b6&style=flat" alt="nemasisdarkx" />
+  <img src="https://profile-48ks.onrender.com/image?" alt="nemasisdarkx" />
 </p>
 
 <p align="left">
