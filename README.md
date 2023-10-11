@@ -36,26 +36,26 @@
   <button onclick="sendMessage()">Send</button>
 </div>
 
-<!-- JavaScript to interact with Brainshop AI -->
+
 <script>
   function sendMessage() {
     const userMessage = document.getElementById('user-input').value;
     
-    // Display user message in the chat log
+   
     displayMessage('You', userMessage);
     
-    // Replace the API URL with the actual Brainshop AI API endpoint
+
     fetch('http://api.brainshop.ai/get?bid=178372&key=22YiicEpyQBVZnpm&uid=YOUR_USER_ID&msg=' + encodeURIComponent(userMessage), {
-      method: 'GET', // You should use GET for Brainshop AI
+      method: 'GET', 
       headers: {
         'Content-Type': 'application/json',
-        // Add any required headers here
+
       }
     })
     .then(response => response.json())
     .then(data => {
       const aiResponse = data.cnt;
-      // Display AI response in the chat log
+
       displayMessage('AI', aiResponse);
     })
     .catch(error => {
