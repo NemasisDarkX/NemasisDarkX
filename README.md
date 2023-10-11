@@ -13,7 +13,6 @@
 <br/>
 <p><b>I'm good at: </p></b>
 
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,7 +28,49 @@
 
 <a href="https://github.com/NemasisDarkX"><img alt="NemasisDarkX's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=NemasisDarkX&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<div id="chat-container">
+  <div id="chat-log">
+    <!-- Chat messages will be displayed here -->
+  </div>
+  <input type="text" id="user-input" placeholder="Type a message...">
+  <button onclick="sendMessage()">Send</button>
+</div>
 
+<!-- JavaScript to interact with Brainshop AI -->
+<script>
+  function sendMessage() {
+    const userMessage = document.getElementById('user-input').value;
+    
+    // Display user message in the chat log
+    displayMessage('You', userMessage);
+    
+    // Send the user message to Brainshop AI and handle the response
+    fetch('http://api.brainshop.ai/get?bid=178372&key=22YiicEpyQBVZnpm&uid=[uid]&msg=[msg]', {
+      method: 'POST',
+      body: JSON.stringify({ message: userMessage }),
+      headers: {
+        'Content-Type': 'application/json',
+        // Add any required headers or API keys here
+      }
+    })
+    .then(response => response.json())
+    .then(data => {
+      const aiResponse = data.response;
+      // Display AI response in the chat log
+      displayMessage('AI', aiResponse);
+    })
+    .catch(error => {
+      console.error('Error sending message to Brainshop AI', error);
+    });
+  }
+
+  function displayMessage(sender, message) {
+    const chatLog = document.getElementById('chat-log');
+    const messageElement = document.createElement('p');
+    messageElement.textContent = `${sender}: ${message}`;
+    chatLog.appendChild(messageElement);
+  }
+</script>
 
 <br />
 
