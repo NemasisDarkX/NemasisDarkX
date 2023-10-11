@@ -3,11 +3,7 @@
 
   
 <br/>
-
-<div style="text-align: center;">
-  <a href="https://github.com/NemasisDarkX"><img src="https://profile-48ks.onrender.com/image" alt="GLITCH">
-  </a>
-</div>
+<a href="https://github.com/NemasisDarkX"><img src="https://profile-48ks.onrender.com/image" border="0"></a>
 
 
 </p>
