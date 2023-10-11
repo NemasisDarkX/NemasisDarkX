@@ -24,7 +24,7 @@ Hello, I'm Abhay. I'm passionate about programming and open source. Here's a bit
 
 ## Let's Connect
 
-- 📫 Reach me at [NemasisDarkX](abhayr07300@gmail.com)
+- 📫 Reach me at [NemasisDarkX](<abhayr07300@gmail.com>)
 
 Feel free to explore my repositories, and let's collaborate on exciting projects!
 
