@@ -34,7 +34,7 @@
   <h3>🔭 I’m currently working on <strong>Cosmo-X</strong></h3>
   <h3>🌱 I’m currently learning <strong>App Development</strong></h3>
   <h3>💬 Ask me about <strong>Python, Javascript</strong></h3>
-  <h3>📫 How to reach me <strong>abhayr07300@gmail.com</strong></h3>
+  <h3>📫 How to reach me <strong>nemasis8311@gmail.com</strong></h3>
   <h3>⚡ Fun fact: <strong>I work until there is no more hope</strong></h3>
 </div>
 
