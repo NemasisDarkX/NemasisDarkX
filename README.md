@@ -12,6 +12,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nemasisdarkx" alt="nemasisdarkx" />
   </a>
 </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemasisdarkx&show_icons=true&locale=en&layout=compact" alt="nemasisdarkx" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nemasisdarkx&show_icons=true&locale=en" alt="nemasisdarkx" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nemasisdarkx&" alt="nemasisdarkx" />
+</p>
 
 <p align="left">
   <a href="https://twitter.com/glitch694209" target="blank">
@@ -72,15 +83,4 @@
   </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemasisdarkx&show_icons=true&locale=en&layout=compact" alt="nemasisdarkx" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nemasisdarkx&show_icons=true&locale=en" alt="nemasisdarkx" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nemasisdarkx&" alt="nemasisdarkx" />
-</p>
 
