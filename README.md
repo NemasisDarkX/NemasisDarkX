@@ -2,8 +2,9 @@
 <h3 align="center">I AM GLITCH </h3>
 
   
-<br/>
-<a href="https://github.com/NemasisDarkX"><img src="https://profile-48ks.onrender.com/image" border="0"></a>
+
+<a href="https://github.com/NemasisDarkX"><img src="https://profile-48ks.onrender.com/image?version=1" border="0"></a>
+
 
 
 
