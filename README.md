@@ -36,7 +36,7 @@
   <button onclick="sendMessage()">Send</button>
 </div>
 
-
+```
 <script>
   function sendMessage() {
     const userMessage = document.getElementById('user-input').value;
@@ -70,7 +70,7 @@
     chatLog.appendChild(messageElement);
   }
 </script>
-
+```
 <br />
 
 ## 📊 Stack Overflow stats ![](https://img.shields.io/stackexchange/stackoverflow/r/19911293?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400)
