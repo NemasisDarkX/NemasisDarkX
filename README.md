@@ -29,37 +29,3 @@ Hello, I'm Abhay. I'm passionate about programming and open source. Here's a bit
 Feel free to explore my repositories, and let's collaborate on exciting projects!
 
 Have a great day! 🚀
-
-<!-- HTML structure for the chat interface -->
-<div id="chat-container">
-  <div id="chat-log">
-    <!-- Chat messages will be displayed here -->
-  </div>
-  <input type="text" id="user-input" placeholder="Type a message...">
-  <button onclick="sendMessage()">Send</button>
-</div>
-
-<!-- JavaScript to interact with Brainshop AI -->
-<script>
-  function sendMessage() {
-    const userMessage = document.getElementById('user-input').value;
-
-    // Display user message in the chat log
-    displayMessage('You', userMessage);
-
-    // Send the user message to Brainshop AI and handle the response
-    // Use your Brainshop AI API key and endpoint here
-
-    // Code for sending the message and receiving AI response
-
-    // Display AI response in the chat log
-    displayMessage('AI', aiResponse);
-  }
-
-  function displayMessage(sender, message) {
-    const chatLog = document.getElementById('chat-log');
-    const messageElement = document.createElement('p');
-    messageElement.textContent = `${sender}: ${message}`;
-    chatLog.appendChild(messageElement);
-  }
-</script>
