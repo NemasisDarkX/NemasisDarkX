@@ -44,18 +44,17 @@
     // Display user message in the chat log
     displayMessage('You', userMessage);
     
-    // Send the user message to Brainshop AI and handle the response
-    fetch('http://api.brainshop.ai/get?bid=178372&key=22YiicEpyQBVZnpm&uid=[uid]&msg=[msg]', {
-      method: 'POST',
-      body: JSON.stringify({ message: userMessage }),
+    // Replace the API URL with the actual Brainshop AI API endpoint
+    fetch('http://api.brainshop.ai/get?bid=178372&key=22YiicEpyQBVZnpm&uid=YOUR_USER_ID&msg=' + encodeURIComponent(userMessage), {
+      method: 'GET', // You should use GET for Brainshop AI
       headers: {
         'Content-Type': 'application/json',
-        // Add any required headers or API keys here
+        // Add any required headers here
       }
     })
     .then(response => response.json())
     .then(data => {
-      const aiResponse = data.response;
+      const aiResponse = data.cnt;
       // Display AI response in the chat log
       displayMessage('AI', aiResponse);
     })
@@ -71,7 +70,7 @@
     chatLog.appendChild(messageElement);
   }
 </script>
-</html>
+
 <br />
 
 ## 📊 Stack Overflow stats ![](https://img.shields.io/stackexchange/stackoverflow/r/19911293?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400)
