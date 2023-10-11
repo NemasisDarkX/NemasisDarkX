@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Brainshop AI Chat</title>
-</head>
+
 <body>
   <p align="center">
     <h3 align="center">I AM GLITCH</h3>
