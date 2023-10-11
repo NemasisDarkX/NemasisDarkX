@@ -1,7 +1,7 @@
 <p align="center">
-<h3 align="center">ELOWW! MY NAME IS ABHAY R ✨</h3>
+<h3 align="center">MY NAME IS ABHAY R </h3>
+<a href="https://profile-48ks.onrender.com/image"><img src="https://profile-48ks.onrender.com/image" alt="GLITCH" border="0"></a>
 
-<a href="https://github.com/NeamsisDarkX">  <img align="right" src="https://komarev.com/ghpvc/?username=NemasisDarkX&color=red&style=plastic)"></a>
 </p>
 <br/>
 <p><b>I'm good at: </p></b>
