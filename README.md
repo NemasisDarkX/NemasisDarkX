@@ -36,7 +36,7 @@
   <button onclick="sendMessage()">Send</button>
 </div>
 
-```
+```html
 <script>
   function sendMessage() {
     const userMessage = document.getElementById('user-input').value;
