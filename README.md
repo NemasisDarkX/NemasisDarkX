@@ -71,7 +71,7 @@
     chatLog.appendChild(messageElement);
   }
 </script>
-
+</html>
 <br />
 
 ## 📊 Stack Overflow stats ![](https://img.shields.io/stackexchange/stackoverflow/r/19911293?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400)
