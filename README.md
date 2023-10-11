@@ -28,13 +28,51 @@ Hello, I'm Abhay. I'm passionate about programming and open source. Here's a bit
 
 Feel free to explore my repositories, and let's collaborate on exciting projects!
 
-<div id="chat-box">
-  <div id="chat-log">
-    <!-- Chat messages will be displayed here -->
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Add your CSS styles here */
+    #chat-box {
+      width: 300px;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+
+    #chat-log {
+      height: 200px;
+      overflow-y: scroll;
+      border: 1px solid #ddd;
+      padding: 10px;
+    }
+
+    #user-input {
+      width: 100%;
+      padding: 5px;
+    }
+
+    #send-button {
+      width: 100%;
+      padding: 5px;
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div id="chat-box">
+    <h2>Chat Box</h2>
+    <div id="chat-log">
+      <!-- Chat messages will be displayed here -->
+    </div>
+    <input type="text" id="user-input" placeholder="Type a message...">
+    <button id="send-button">Send</button>
   </div>
-  <input type="text" id="user-input" placeholder="Type a message...">
-  <button onclick="sendMessage()">Send</button>
-</div>
+</body>
+</html>
+
 
 Have a great day! 🚀
 
