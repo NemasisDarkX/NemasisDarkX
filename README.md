@@ -1,6 +1,12 @@
 <p align="center">
-<h3 align="center">MY NAME IS ABHAY R </h3>
-<a href="https://profile-48ks.onrender.com/image"><img src="https://profile-48ks.onrender.com/image" alt="GLITCH" border="0"></a>
+<h3 align="center">I AM GLITCH </h3>
+<br/>
+<div style="text-align: center;">
+  <a href="https://profile-48ks.onrender.com/image">
+    <img src="https://profile-48ks.onrender.com/image" alt="GLITCH" border="0">
+  </a>
+</div>
+
 
 </p>
 <br/>
