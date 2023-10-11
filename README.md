@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Image](https://profile-48ks.onrender.com/image)
+![Profile Image](https://profile-48ks.onrender.com/image?)
 
 Hello, I'm Abhay. I'm passionate about programming and open source. Here's a bit about me:
 
