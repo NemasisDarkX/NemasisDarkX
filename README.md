@@ -4,10 +4,7 @@
   
 <br/>
 
-<div style="text-align: center;">
-  <a href="https://profile-48ks.onrender.com"><img src="https://profile-48ks.onrender.com/image" alt="GLITCH">
-  </a>
-</div>
+
 
 
 </p>
