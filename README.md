@@ -3,9 +3,9 @@
 
   
 <br/>
+
 <div style="text-align: center;">
-  <a href="https://profile-48ks.onrender.com">
-    <img src="https://profile-48ks.onrender.com/image" alt="GLITCH" border="0">
+  <a href="https://profile-48ks.onrender.com"><img src="https://profile-48ks.onrender.com/image" alt="GLITCH">
   </a>
 </div>
 
