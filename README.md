@@ -1,12 +1,7 @@
 <div align="center">
   <h1>Hello, I'm GLITCH</h1>
-  <h3>I'm passionate about programming and open source.</h3>
-</div>
-
-<p align="left">
   <img src="https://profile-48ks.onrender.com/image?" alt="nemasisdarkx" />
-</p>
-
+</div>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nemasisdarkx" alt="nemasisdarkx" />
