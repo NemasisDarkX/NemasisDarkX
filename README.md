@@ -27,7 +27,6 @@
 
 <div align="left">
   <h3>🔭 I’m currently working on <strong>Cosmo-X</strong></h3>
-  <h3>🌱 I’m currently learning <strong>App Development</strong></h3>
   <h3>💬 Ask me about <strong>Python, Javascript</strong></h3>
   <h3>📫 How to reach me <strong>nemasis8311@gmail.com</strong></h3>
   <h3>⚡ Fun fact: <strong>I work until there is no more hope</strong></h3>
@@ -48,12 +47,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
